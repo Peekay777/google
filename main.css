@@ -31,7 +31,7 @@ a:hover {
 	min-height: 100%;
 }
 
-section#logo {
+#logo {
 	background-image: url(images/google-logo.png);
 	background-repeat: no-repeat;
 	background-position: bottom;
